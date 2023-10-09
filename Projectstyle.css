@@ -1,0 +1,151 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	.nav {
+    text-align: center;
+	list-style-type: none;
+	margin: 0% -12.5%;
+	overflow: hidden;
+	background-color: #8ACFC7;
+	top:0;}
+
+	.navli {
+	display:inline-block;
+	letter-spacing: 2pt;
+	text-align: center;
+	font-family: PT Sans;
+	font-weight: 900;
+	font-size: 1.4em;
+	padding: 2% 5%;
+	width: 20;}
+
+	.navli a {
+	color:#323B3C;
+	text-decoration: none;}
+
+	.navli a:hover {
+	color:#CCE8E5;}
+
+	.navli a:active {
+	color:#516163;}
+
+	a {
+	color:#8ACFC7;
+	font-weight: 900;
+	text-decoration: none;}
+	
+	a:hover {
+	color: #CCE8E5;}
+	
+	.button{
+	background-color:#8ACFC7;
+	padding: 2% 0%;
+	text-align: center;
+	margin: 2%;
+	width: 35%;
+	font-size: 1.2em;
+	font-family: PT Sans Narrow;
+	display:inline-block;
+	border: 3px solid #323B3C;}
+	
+	.button a{
+	color:#323B3C;
+	text-align:center;
+	padding:5% 10%;
+	text-decoration: none;}
+
+	.button a:hover{
+	color:#516163;
+	text-decoration: none;}
+
+	.button:hover {
+	color: #516163;
+	background-color: #CCE8E5;
+	border: 3px solid #516163;}
+	
+	body {
+	font-size: 1.7em;
+	font-family: 'Mukta', sans-serif;
+	background-color: #FFFFFF;
+	margin: 0% 10% 5% 10%;
+	line-height: 130%;
+	color:#323B3C}
+	
+	h1 {
+	color: #516163;
+	line-height: 125%;
+	line-weight: 700;
+	font-size: 3.6em;
+	font-family: PT Sans Narrow;
+	margin-bottom: -1%;
+	}
+	
+	h2 {
+	padding: 8% 0% 2% 0%;
+	color: #516163;
+	line-weight: 700;
+	font-size: 2.6em;
+	line-height: 100%;
+	font-family: PT Sans Narrow;}
+	
+	h3{
+	margin: 2.5% 5% 2.5% 5%;
+	color: #516163;
+	font-weight: 900;
+	font-size: 1.6em;
+	line-height: 125%;
+	font-family: PT Sans Narrow;
+	text-align:center;}
+	
+	aside {
+	font-style: italic;
+	font-size:0.8em;}
+
+	li {padding: 2% 0%;}
+	
+	.column {
+ 	float: left;
+ 	width: 45%;
+	padding: 0% 2.5% 0% 0%;}
+	
+	.columnlist {
+	float: left;
+ 	width: 47.5%;
+	padding: 2% 2.5% 2% 2.5%;
+	background-color: #516163;
+	color: #FFFFFF;}
+	
+	.row {
+  	display: table;
+	clear: both;}
+	
+	.header {
+	margin-left: -5%; 
+	margin-right: -5%;} 
+	
+	.headerimg {
+	margin: 0% -12.5%;
+	border: 3px solid #323B3C;}
+	
+	.typelist {
+	padding: 5% 5% 5% 0%;
+	font-size: 0.8em;
+	font-weight: 100;}
+	
+	.backcolor {
+	background-color: #CCE8E5;
+	margin: 0% -12.5%;
+	padding: 0% 10% 5% 10%;
+	}
+	
+	.footer {
+	padding-top:1%;
+	padding-bottom:1%;
+	}
+
+	.footer a {
+	color:#323B3C;}
+
+	.footer a:hover {
+	color:#8ACFC7;}
+
